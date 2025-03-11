@@ -1,8 +1,16 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
-  "author": "Dev Problems (A Sarang Kumar Tak) <a href=https://www.youtube.com/@devproblems>...</a>",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-ssantos/full-stack-springboot-react-openapi-generator-Public.git"
+  },
+  "author": "Vinícius Santos",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@devproblems/youtube-videos-api": "^1.0.2",
     "@testing-library/jest-dom": "^5.17.0",
