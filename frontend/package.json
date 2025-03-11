@@ -6,6 +6,12 @@
     "type": "git",
     "url": "git+https://github.com/vinicius-ssantos/full-stack-springboot-react-openapi-generator-Public.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+
+
+
   "author": "Vinícius Santos",
   "license": "MIT",
   "publishConfig": {
