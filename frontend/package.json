@@ -18,7 +18,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@devproblems/youtube-videos-api": "^1.0.2",
+    "@vinicius-ssantos/youtube-videos-api": "^1.0.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.1",
     "@testing-library/user-event": "^12.5.0",
